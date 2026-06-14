@@ -13,7 +13,7 @@ spec:
 
   source:
     # Replace 'DPP-2026' with your GitHub username after forking zen-gitops
-    repoURL: https://github.com
+    repoURL: https://github.com/AbdulSaiyad/zen-gitops.git
     targetRevision: HEAD
     path: envs/prod
 
